@@ -1,6 +1,4 @@
-<h3 align="center">Hi there, I'm <a target="_blank">Elena</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="33"/></h1>
-<h5 align="center">QA-engineer from Russia 🇷🇺</h4>
+<h4>Hi there!<a target="_blank"></a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="20"/></h1><h6 >QA-engineer from Russia 🇷🇺</h6>
 
 ## Languages and tools
 <p align="center">
